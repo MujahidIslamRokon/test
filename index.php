@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
+    
+    <?php
+     echo "<h1>test1</h1>
     <h1>test1</h1>
+    <h1>test1</h1>
+    <h1>test1</h1>
+";
+    ?>
 </body>
 </html>
